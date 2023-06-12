@@ -19,5 +19,7 @@ public class kandidat {
         
         kandidat1.setTambahSuara();
         System.out.println("Hasil Suara Setelah di tambahkan " +kandidat1.getTambahSuara());
+        
+        ProfileOsis kandidat2 = new ProfileOsis("Fera","11 IPS ", 2110110473, 530);
     }
 }
